@@ -1,0 +1,29 @@
+.profile{
+    background-color: rgb(39, 43, 43);
+    width: 1348px;
+    height: 1400px;
+    display: inline-block;
+
+}
+
+.empty{
+    display:inline-block;
+    position: inherit;
+    margin-top: 75px ;
+    height: 365px;
+    margin-left: 25px;
+    margin-right: 38px;
+}
+.video{
+     display: inline-block;
+    }
+.content{
+    border-top: rgb(133, 187, 7);
+    margin: 20px 40px 20px 40px;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+}
+.list{
+    color: gold;
+}

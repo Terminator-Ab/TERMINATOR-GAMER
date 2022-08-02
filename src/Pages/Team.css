@@ -1,0 +1,120 @@
+.about {
+    display: inline-block;
+    /* background: url("team2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;*/
+    width: 1348px;
+    height: 760px;
+    background:  rgb(39, 43, 43);
+}
+.heading {
+    font-size: 30px;
+    color: gold;
+    font-weight: bold;
+    margin-top: 100px;
+    margin-left: 190px;
+}
+#cards {
+    display: block;
+    margin: 40px 0px 0px 0px;
+}
+.card1 {
+    display: inline-block;
+    height: 370px;
+    width: 250px;
+    margin-top: 0px;
+    margin-left: 180px;
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0));
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    border-radius: 32px;
+}
+.img-card {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    color: white;
+    margin-left: 28%;
+    margin-top: 5px;
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+    background-color: cornflowerblue;
+}
+.image-ab {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.image-ab:hover {
+  box-shadow: 0 0 20px #bcee0a;
+}
+.card-body {
+    display: inline-block;
+    width: 250px;
+    height: 250px;
+    border-radius: 32px;
+    color: white;
+    text-align: center;
+}
+.card-name {
+    display: inline-block;
+    color: rgb(226, 95, 8);
+    font-size: 20px;
+    font-weight: 500;
+    
+}
+.card-name:hover {
+    color: rgb(207, 191, 201);
+    
+}
+.card-text {
+    font-weight: 600;
+    font-style: bold;
+    font-size: 15px;
+    display: inline-block;
+    text-align: start;
+    justify-content: start;
+    margin: 5px 3px 0px 5px;
+    color: rgb(30, 221, 235);
+}
+#card2 {
+    margin-left: 100px;
+}
+#card3 {
+    margin-left: 100px;
+}
+.icon-ul {
+    display: block;
+    width: 245px;
+    height: 55px;
+    border-radius: 32px;
+}
+.img-icon {
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    margin-top: 15px;
+    margin-left: 5px;
+    border-radius: 23px;
+}
+.img-icon2 {
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    margin-top: 15px;
+    margin-left: 20px;
+    border-radius: 23px;
+}
+.img-icon3 {
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    margin-top: 15px;
+    margin-left: 20px;
+    border-radius: 23px;
+}
+
+.icon-ul img:hover{
+    width: 37px;
+    box-shadow: 0 0 20px #bcee0a;
+    }
